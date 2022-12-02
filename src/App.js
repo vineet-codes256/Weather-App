@@ -12,7 +12,7 @@ function App() {
   useInterval(() => {
     async function fetchData() {
       try {
-        const response = await fetch('https://weatherapi-env.eba-5nj22bbv.ap-northeast-1.elasticbeanstalk.com');
+        const response = await fetch('http://weatherapi-env.eba-5nj22bbv.ap-northeast-1.elasticbeanstalk.com');
         const json = await response.json();
         hideLoader();
         setData(json);
