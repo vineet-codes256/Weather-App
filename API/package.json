@@ -2,7 +2,7 @@
   "name": "weatherapi",
   "version": "1.0.0",
   "description": "Sends live weather data of top 30 cities in India",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "build": "webpack --mode production",
     "start": "webpack-dev-server --mode development --open"

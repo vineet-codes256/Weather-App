@@ -18,6 +18,7 @@ app.get('/getweather', async (req, res) => {
                 name: cities[i].name,
                 lat: cities[i].lat,
                 lon: cities[i].lon,
+                time: data.dt,
                 main: data.weather[0].main,
                 temp: data.main.temp,
                 humidity: data.main.humidity,
