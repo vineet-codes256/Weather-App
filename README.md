@@ -1,11 +1,11 @@
 # Weather-App
 see live weather details of top 30 cities in india, updated every hour.
 
-Main site:
+Main site (AWS):
 https://main.dhsg3aujkmhbd.amplifyapp.com
 
-Alternate link:
-https://638a2dee9a35cf3f401a79e3--nimble-palmier-90200f.netlify.app
+Alternate link (Netlify):
+https://weather-app-by-vineet.netlify.app
 
 
 ![image](https://user-images.githubusercontent.com/87371365/205353024-12aeb009-6680-48ff-8f02-8742b79fb35a.png)
