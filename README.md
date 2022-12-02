@@ -17,5 +17,5 @@ https://weather-app-by-vineet.netlify.app
 
 
 
-Server is not using HTTPS connection, so some browser might block the fetch requests.
+Server is not using HTTPS connection, so some browser which do not allow http request to be made from https origin might block the fetch requests.
 ![image](https://user-images.githubusercontent.com/87371365/205352603-e485892d-8646-4c5d-b190-b94d8e7fc8f4.png)
